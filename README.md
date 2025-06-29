@@ -81,7 +81,7 @@ Each folder contains images corresponding to Organic (O) or Recyclable (R) waste
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/waste-classification-tl.git
+git clone https://github.com/ShashankGoutam/Classify-Waste-Products-Using-Transfer-Learning.git
 cd waste-classification-tl
 ```
 
